@@ -1,0 +1,463 @@
+2018-11-10 18:21:09,029 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50050)>
+
+2018-11-10 18:21:42,786 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50051)>
+
+2018-11-10 18:21:46,966 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=57, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56432), raddr=('127.0.0.1', 50051)>
+
+2018-11-10 18:21:49,298 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:21:49,298 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=57, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56432), raddr=('127.0.0.1', 50051)> geschickt!
+
+2018-11-10 18:21:49,298 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50051), raddr=('127.0.0.1', 56432)>).
+
+2018-11-10 18:21:49,298 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:21:49,307 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:21:49,311 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:24:16,526 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50051)>
+
+2018-11-10 18:24:16,526 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50051)>
+
+2018-11-10 18:24:20,842 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=60, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56480), raddr=('127.0.0.1', 50051)>
+
+2018-11-10 18:24:20,842 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=60, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56480), raddr=('127.0.0.1', 50051)>
+
+2018-11-10 18:24:23,799 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=60, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56480), raddr=('127.0.0.1', 50051)> geschickt!
+
+2018-11-10 18:24:23,799 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=60, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56480), raddr=('127.0.0.1', 50051)> geschickt!
+
+2018-11-10 18:24:23,800 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:24:23,800 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:24:23,801 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50051), raddr=('127.0.0.1', 56480)>).
+
+2018-11-10 18:24:23,801 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50051), raddr=('127.0.0.1', 56480)>).
+
+2018-11-10 18:24:23,801 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:24:23,801 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:24:23,810 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:24:23,810 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:24:23,813 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:24:23,813 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:26:44,754 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:26:44,875 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55136), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:26:47,967 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55136), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:26:47,967 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:26:47,968 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55136)>).
+
+2018-11-10 18:26:47,968 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:26:47,968 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:26:47,969 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:27:28,207 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=60, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:28,207 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=60, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:28,324 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=60, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55234), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:28,324 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=60, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55234), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:30,633 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=60, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55234), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:27:30,633 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=60, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55234), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:27:30,633 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:27:30,633 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:27:30,633 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=62, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55234)>).
+
+2018-11-10 18:27:30,633 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=62, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55234)>).
+
+2018-11-10 18:27:30,633 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:27:30,633 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:27:30,633 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:27:30,633 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:27:30,634 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:27:30,634 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:27:40,171 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=62, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:40,171 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=62, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:40,171 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=62, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:40,289 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=61, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55236), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:40,289 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=61, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55236), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:40,289 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=61, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55236), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:42,532 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=61, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55236), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:27:42,532 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=61, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55236), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:27:42,532 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=61, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55236), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:27:42,533 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:27:42,533 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:27:42,533 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:27:42,533 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=63, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55236)>).
+
+2018-11-10 18:27:42,533 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=63, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55236)>).
+
+2018-11-10 18:27:42,533 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=63, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55236)>).
+
+2018-11-10 18:27:42,533 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:27:42,533 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:27:42,533 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:27:42,536 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:27:42,536 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:27:42,536 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:27:42,537 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:27:42,537 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:27:42,537 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:27:51,585 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:54,741 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55348), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:27:57,013 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:27:57,013 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55348), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:27:57,013 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55348)>).
+
+2018-11-10 18:27:57,013 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:27:57,028 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:27:57,028 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:28:00,411 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:28:00,411 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:28:03,374 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55350), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:28:03,374 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55350), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:28:05,399 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:28:05,400 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55350), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:28:05,399 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:28:05,400 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55350), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:28:05,400 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55350)>).
+
+2018-11-10 18:28:05,400 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55350)>).
+
+2018-11-10 18:28:05,400 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:28:05,400 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:28:05,412 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:28:05,412 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:28:05,413 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:28:05,413 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:29:58,960 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:29:59,079 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55536), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:30:01,874 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sape über <socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55536), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:30:01,874 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sape'"-Nachricht erhalten! 
+
+2018-11-10 18:30:01,874 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'4139'" antwort zum Client(<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55536)>).
+
+2018-11-10 18:30:01,875 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'4139'" als Antwort erhalten!
+
+2018-11-10 18:30:01,875 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:30:01,876 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:30:07,500 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:30:07,617 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55538), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:30:19,277 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - test über <socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55538), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:30:19,277 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'test'"-Nachricht erhalten! 
+
+2018-11-10 18:30:19,277 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'Kein Eintrag vorhanden!'" antwort zum Client(<socket.socket fd=61, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55538)>).
+
+2018-11-10 18:30:19,277 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:30:19,277 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'Kein Eintrag vorhanden!'" als Antwort erhalten!
+
+2018-11-10 18:30:19,278 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:30:25,896 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:30:26,015 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55540), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:30:29,192 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - sadasda über <socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55540), raddr=('127.0.0.1', 50052)> geschickt!
+
+2018-11-10 18:30:29,192 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'sadasda'"-Nachricht erhalten! 
+
+2018-11-10 18:30:29,192 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'Kein Eintrag vorhanden!'" antwort zum Client(<socket.socket fd=61, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55540)>).
+
+2018-11-10 18:30:29,192 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'Kein Eintrag vorhanden!'" als Antwort erhalten!
+
+2018-11-10 18:30:29,192 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:30:29,193 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:30:40,506 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:30:44,304 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55640), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:30:47,623 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"getall"-über Socket
+<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55640), raddr=('127.0.0.1', 50052)>
+geschickt!
+
+2018-11-10 18:30:47,623 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'getall'"-Nachricht erhalten! 
+
+2018-11-10 18:30:47,623 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'jack 4098\nsape 4139\n'" antwort zum Client(<socket.socket fd=56, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55640)>).
+
+2018-11-10 18:30:47,624 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:30:47,635 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'jack 4098\nsape 4139\n'" als Antwort erhalten!
+
+2018-11-10 18:30:47,637 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:31:38,414 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:31:38,414 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Telefonauskunft gebunden an Socket
+<socket.socket fd=59, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:31:42,232 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55650), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:31:42,232 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Client gebunden an Socket 
+<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55650), raddr=('127.0.0.1', 50052)>
+
+2018-11-10 18:31:46,544 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'getall'"-Nachricht erhalten! 
+
+2018-11-10 18:31:46,544 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"getall"-über Socket
+<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55650), raddr=('127.0.0.1', 50052)>
+geschickt!
+
+2018-11-10 18:31:46,544 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'getall'"-Nachricht erhalten! 
+
+2018-11-10 18:31:46,544 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"getall"-über Socket
+<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55650), raddr=('127.0.0.1', 50052)>
+geschickt!
+
+2018-11-10 18:31:46,544 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'jack 4098\nsape 4139\n'" antwort zum Client(<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55650)>).
+
+2018-11-10 18:31:46,544 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+"b'jack 4098\nsape 4139\n'" antwort zum Client(<socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50052), raddr=('127.0.0.1', 55650)>).
+
+2018-11-10 18:31:46,545 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:31:46,545 - vs2lab.a1_Telefonauskunft(Server) - INFO - 
+Server Socket geschlossen.
+
+2018-11-10 18:31:46,558 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'jack 4098\nsape 4139\n'" als Antwort erhalten!
+
+2018-11-10 18:31:46,558 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+"b'jack 4098\nsape 4139\n'" als Antwort erhalten!
+
+2018-11-10 18:31:46,561 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
+2018-11-10 18:31:46,561 - vs2lab.a1_Benutzerschnittstelle(Client) - INFO - 
+Benutzerschnittstelle(Client)-Socket geschlossen.
+
