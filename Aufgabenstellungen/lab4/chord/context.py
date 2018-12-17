@@ -1,13 +1,8 @@
-"""
-Utility script expanding the module search path
-This way we can import modules from the shared lib package
-"""
-
 import os
 import sys
 
 
-def add_parent_path(steps_up=1):
+def add_parent_path(steps_up=2):
     # construct path by stepping up the path hierarchy <steps_up> times
     path = os.path.dirname(__file__)
     for _ in range(steps_up):
@@ -17,7 +12,8 @@ def add_parent_path(steps_up=1):
 
 
 # Add the toplevel folder of the repository to the module search path
-add_parent_path(2)
+# This way we can import modules from the shared lib package
+add_parent_path()
 
 # following imports are used by other modules to access shared packages
 from lib import lab_logging, lab_channel
